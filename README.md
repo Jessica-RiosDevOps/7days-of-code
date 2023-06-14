@@ -6,7 +6,6 @@
 - 👇 O resultado você poderá ver clicando no link abaixo.
 - https://jessicarios-devops.github.io/7days-of-code/
 
-
 ![Badge Concluído](https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen?style=for-the-badge&logo=appveyor)
 
 
